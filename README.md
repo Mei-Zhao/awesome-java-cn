@@ -88,7 +88,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     - [Twitter](#twitter)
     - [知名网站](#websites)
     - [博客](blogs)
-- [加入贡献](#contributing)
+
 
 <h2 id="ancients">古董级工具</h2>
 
@@ -589,6 +589,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * ImportNew：是最受欢迎的、专注Java技术分享的微信公众号。专注Java技术分享，包括Java基础技术、进阶技能、架构设计和Java技术领域动态等。 
+![](http://ww2.sinaimg.cn/small/63918611gw1epb2c7rv2uj20460463ym.jpg)
+* ImportNew 微博：[@ImportNew](http://weibo.com/importnew)
 
 <h3 id="twitter">Twitter</h3>
 * [Adam Bien](https://twitter.com/AdamBien/)：自由职业者、作家、JavaONE明星演讲者、顾问、Java Champion。
@@ -640,10 +642,3 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Vanilla Java](http://vanillajava.blogspot.ch/)
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
-
-<h3 id="contributing">加入贡献</h3>
-从目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-不过加入前，有几个小要求：
-+ 英文还不错，能读懂英文并用自己的话复述；
-+ 在用 Java；
-+ 如有兴趣，请加 QQ：1537482893。加 Q 时请注明「Java大全」
